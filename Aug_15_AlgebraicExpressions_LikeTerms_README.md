@@ -1,5 +1,7 @@
-# Day 2 – Algebraic Expressions & Like Terms  
-**Grade 9 Alberta Curriculum – Calgary Focus**
+# Day 2
+_Algebraic Expressions & Like Terms_  
+
+**Grade 9 Alberta Curriculum - Calgary Focus**
 
 ## Objectives
 By the end of this lesson, the student will be able to:
