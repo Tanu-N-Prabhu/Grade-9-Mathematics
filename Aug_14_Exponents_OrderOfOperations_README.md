@@ -1,5 +1,8 @@
-# Day 1 – Exponents & Order of Operations  
-**Grade 9 Alberta Curriculum – Calgary Focus**
+# Day 1 
+
+_Exponents & Order of Operations_
+
+**Grade 9 Alberta Curriculum**
 
 ## Objectives
 By the end of this lesson, the student will be able to:
