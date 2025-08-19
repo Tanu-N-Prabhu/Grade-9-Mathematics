@@ -34,11 +34,11 @@ Where:
 A right triangle has legs of 3 cm and 4 cm.  
 Find the hypotenuse.
 
-\[ a^2 + b^2 = c^2 \]  
-\[ 3^2 + 4^2 = c^2 \]  
-\[ 9 + 16 = c^2 \]  
-\[ 25 = c^2 \]  
-\[ c = 5 \]  
+$$[ a^2 + b^2 = c^2 ]$$
+$$[ 3^2 + 4^2 = c^2 ]$$  
+$$[ 9 + 16 = c^2 ]$$  
+$$[ 25 = c^2 ]$$  
+$$[ c = 5 ]$$  
 
 **Answer:** Hypotenuse = 5 cm
 
@@ -48,11 +48,11 @@ Find the hypotenuse.
 Hypotenuse = 13 cm, one leg = 5 cm.  
 Find the other leg.
 
-\[ a^2 + b^2 = c^2 \]  
-\[ a^2 + 5^2 = 13^2 \]  
-\[ a^2 + 25 = 169 \]  
-\[ a^2 = 144 \]  
-\[ a = 12 \]  
+$$[ a^2 + b^2 = c^2 ]$$  
+$$[ a^2 + 5^2 = 13^2 ]$$  
+$$[ a^2 + 25 = 169 ]$$  
+$$[ a^2 = 144 ]$$  
+$$[ a = 12 ]$$  
 
 **Answer:** Other leg = 12 cm
 
@@ -81,20 +81,20 @@ Find the other leg.
 ## Answer Key
 
 ### Part A: Hypotenuse
-1. c = \( \sqrt{6^2 + 8^2} = \sqrt{36 + 64} = 10 \)  
-2. c = \( \sqrt{9^2 + 12^2} = \sqrt{81 + 144} = 15 \)  
-3. c = \( \sqrt{7^2 + 24^2} = \sqrt{49 + 576} = 25 \)  
-4. c = \( \sqrt{15^2 + 20^2} = \sqrt{225 + 400} = 25 \)  
+1. c = $$( \sqrt{6^2 + 8^2} = \sqrt{36 + 64} = 10 )$$  
+2. c = $$( \sqrt{9^2 + 12^2} = \sqrt{81 + 144} = 15 )$$  
+3. c = $$( \sqrt{7^2 + 24^2} = \sqrt{49 + 576} = 25 )$$  
+4. c = $$( \sqrt{15^2 + 20^2} = \sqrt{225 + 400} = 25 )$$  
 
 ### Part B: Missing Leg
-5. b = \( \sqrt{10^2 - 6^2} = \sqrt{100 - 36} = 8 \)  
-6. a = \( \sqrt{25^2 - 24^2} = \sqrt{625 - 576} = 7 \)  
-7. b = \( \sqrt{17^2 - 8^2} = \sqrt{289 - 64} = 15 \)  
-8. a = \( \sqrt{29^2 - 21^2} = \sqrt{841 - 441} = 20 \)  
+5. b = $$( \sqrt{10^2 - 6^2} = \sqrt{100 - 36} = 8 )$$  
+6. a = $$( \sqrt{25^2 - 24^2} = \sqrt{625 - 576} = 7 )$$  
+7. b = $$( \sqrt{17^2 - 8^2} = \sqrt{289 - 64} = 15 )$$  
+8. a = $$( \sqrt{29^2 - 21^2} = \sqrt{841 - 441} = 20 )$$  
 
 ### Part C: Word Problems
-9. Height = \( \sqrt{15^2 - 9^2} = \sqrt{225 - 81} = 12 \) → Ladder reaches **12 m** up the wall.  
-10. Height = \( \sqrt{20^2 - 16^2} = \sqrt{400 - 256} = 12 \) → TV height = **12 inches**.
+9. Height = $$( \sqrt{15^2 - 9^2} = \sqrt{225 - 81} = 12 )$$ → Ladder reaches **12 m** up the wall.  
+10. Height = $$( \sqrt{20^2 - 16^2} = \sqrt{400 - 256} = 12 )$$ → TV height = **12 inches**.
 
 ---
 
