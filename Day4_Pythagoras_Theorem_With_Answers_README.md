@@ -24,7 +24,7 @@ $$[ c = \sqrt{a^2 + b^2} ]$$
 
 $$[ a = \sqrt{c^2 - b^2} ]$$
 
-$$[ b = \sqrt{c^2 - a^2} $$]
+$$[ b = \sqrt{c^2 - a^2} ]$$
 
 ---
 
@@ -32,7 +32,7 @@ $$[ b = \sqrt{c^2 - a^2} $$]
 
 A right triangle has legs 3 cm and 4 cm. Find the hypotenuse.
 
-\[ c = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5 \]
+$$[ c = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5 ]$$
 
 ✅ The hypotenuse is **5 cm**.
 
@@ -61,25 +61,25 @@ A square has a diagonal of 10 cm. Find the length of each side.
 ## Answer Key
 
 **Q1:**  
-\[ c = \sqrt{5^2 + 12^2} = \sqrt{25 + 144} = \sqrt{169} = 13 \]  
+$$[ c = \sqrt{5^2 + 12^2} = \sqrt{25 + 144} = \sqrt{169} = 13 ]$$ 
 ✅ Hypotenuse = **13 cm**  
 
 **Q2:**  
-\[ a = \sqrt{13^2 - 5^2} = \sqrt{169 - 25} = \sqrt{144} = 12 \]  
+$$[ a = \sqrt{13^2 - 5^2} = \sqrt{169 - 25} = \sqrt{144} = 12 ]$$  
 ✅ Missing side = **12 cm**  
 
 **Q3:**  
-\[ h = \sqrt{10^2 - 6^2} = \sqrt{100 - 36} = \sqrt{64} = 8 \]  
+$$[ h = \sqrt{10^2 - 6^2} = \sqrt{100 - 36} = \sqrt{64} = 8 ]$$  
 ✅ The ladder reaches **8 m high**  
 
 **Q4:**  
-\[ c = \sqrt{8^2 + 15^2} = \sqrt{64 + 225} = \sqrt{289} = 17 \]  
+$$[ c = \sqrt{8^2 + 15^2} = \sqrt{64 + 225} = \sqrt{289} = 17 ]$$ 
 ✅ Hypotenuse = **17 cm**  
 
 **Q5:**  
-In a square, diagonal \(d = \sqrt{2} \times \text{side}\).  
-\[ 10 = \sqrt{2} \times s \]  
-\[ s = \frac{10}{\sqrt{2}} = 5\sqrt{2} \approx 7.07 \]  
+In a square, diagonal $$(d = \sqrt{2} \times \text{side})$$.  
+$$[ 10 = \sqrt{2} \times s ]$$ 
+$$[ s = \frac{10}{\sqrt{2}} = 5\sqrt{2} \approx 7.07 ]$$
 ✅ Each side ≈ **7.07 cm**  
 
 ---
