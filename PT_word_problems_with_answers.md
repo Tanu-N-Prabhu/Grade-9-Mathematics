@@ -1,4 +1,4 @@
-# 🔹 Pythagoras’ Theorem – Extra Word Problems
+# Pythagoras’ Theorem – Extra Word Problems
 
 ### Problem 1: Ladder Against the Wall  
 A ladder is leaning against a wall. The bottom of the ladder is **6 m** away from the wall, and the ladder reaches a height of **8 m**.  
@@ -18,7 +18,7 @@ $$[
 c = \sqrt{100} = 10 \, \text{m}
 ]$$  
 
-✅ The ladder is **10 m** long.
+The ladder is **10 m** long.
 
 ---
 
@@ -39,7 +39,7 @@ $$[
 d = \sqrt{169} = 13 \, \text{m}
 ]$$  
 
-✅ The diagonal is **13 m**.
+The diagonal is **13 m**.
 
 ---
 
@@ -63,7 +63,7 @@ $$[
 h = \sqrt{6400} = 80 \, \text{m}
 ]$$  
 
-✅ The kite is **80 m** high.
+The kite is **80 m** high.
 
 ---
 
@@ -81,7 +81,7 @@ $$[
 d = \sqrt{225} = 15 \, \text{km}
 ]$$  
 
-✅ They are **15 km apart**.
+They are **15 km apart**.
 
 ---
 
@@ -99,4 +99,4 @@ $$[
 d = \sqrt{900} = 30 \, \text{m}
 ]$$  
 
-✅ The distance is **30 m**.
+The distance is **30 m**.
