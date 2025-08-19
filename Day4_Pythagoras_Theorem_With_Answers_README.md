@@ -12,7 +12,7 @@ Pythagoras’ Theorem states:
 
 **For any right-angled triangle:**
 
-\[ a^2 + b^2 = c^2 \]
+$$[ a^2 + b^2 = c^2 \]$$
 
 Where:
 - \(a\) and \(b\) are the legs (shorter sides),
@@ -20,11 +20,11 @@ Where:
 
 To solve for a missing side:
 
-\[ c = \sqrt{a^2 + b^2} \]
+$$[ c = \sqrt{a^2 + b^2} ]$$
 
-\[ a = \sqrt{c^2 - b^2} \]
+$$[ a = \sqrt{c^2 - b^2} ]$$
 
-\[ b = \sqrt{c^2 - a^2} \]
+$$[ b = \sqrt{c^2 - a^2} $$]
 
 ---
 
