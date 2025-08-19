@@ -1,4 +1,5 @@
-# Pythagoras’ Theorem – Extra Word Problems
+# Pythagoras’ Theorem 
+_Extra Word Problems_
 
 ### Problem 1: Ladder Against the Wall  
 A ladder is leaning against a wall. The bottom of the ladder is **6 m** away from the wall, and the ladder reaches a height of **8 m**.  
